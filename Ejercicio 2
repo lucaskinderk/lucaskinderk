@@ -1,0 +1,27 @@
+import java.io.*;
+import java.math.*;
+
+public class practica05 {
+
+	public static void main(String args[]) {
+		int dif;
+		int num1;
+		int num2;
+		int prod;
+		int sum;
+		// Entrada:
+		num1 = Math.floor(Math.random()*10);
+		num2 = Math.floor(Math.random()*10);
+		// Proceso:
+		sum = num1+num2;
+		dif = num1-num2;
+		prod = num1*num2;
+		// Salida:
+		System.out.println("Numeros al azar: num1: "+num1+" y num2: "+num2);
+		System.out.println("La suma es: "+sum);
+		System.out.println("La diferencia es: "+dif);
+		System.out.println("El producto es: "+prod);
+	}
+
+
+}
