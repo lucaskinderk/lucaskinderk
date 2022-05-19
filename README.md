@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @lucaskinderk
-- 👀 I’m interested in JAVA 
+- 👀 I’m interested in JAVA and Full Stack
 - 🌱 I’m currently learning English 
 - 💞️ I’m looking to collaborate on Java Dev 
 
